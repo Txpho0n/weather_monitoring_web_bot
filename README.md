@@ -1,4 +1,4 @@
-# weather_monitoring_web_map
+# weather_monitoring_web_bot
 
  Веб-сервис по предсказанию неблагоприятных погодных условий для путешественников.
 
